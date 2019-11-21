@@ -1,0 +1,11 @@
+﻿  Source.cpp
+  Scribble.cpp
+c:\users\שרון פייס\desktop\stuff\scribblesharon\scribble\scribble.cpp(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\שרון פייס\desktop\stuff\scribblesharon\scribble\scribble.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\שרון פייס\desktop\stuff\scribblesharon\scribble\scribble.cpp(211): warning C4018: '<': signed/unsigned mismatch
+c:\users\שרון פייס\desktop\stuff\scribblesharon\scribble\scribble.cpp(255): warning C4018: '<': signed/unsigned mismatch
+c:\users\שרון פייס\desktop\stuff\scribblesharon\scribble\scribble.cpp(292): warning C4018: '<': signed/unsigned mismatch
+c:\users\שרון פייס\desktop\stuff\scribblesharon\scribble\scribble.cpp(337): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Scribble.vcxproj -> C:\Users\שרון פייס\Desktop\STUFF\ScribbleSharon\Debug\Scribble.exe
+  Scribble.vcxproj -> C:\Users\שרון פייס\Desktop\STUFF\ScribbleSharon\Debug\Scribble.pdb (Partial PDB)
